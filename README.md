@@ -19,8 +19,6 @@ I am a passionate Game Programmer focused on creating immersive digital experien
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
 
-![KickRave](assets/KickRave.gif)
-
 <!-- ---
 
 ## 🚀 Featured Projects
@@ -44,7 +42,7 @@ I am a passionate Game Programmer focused on creating immersive digital experien
   <tr>
     <td width="50%" valign="top">
       <h3>🔥 KickRave</h3>
-      <img src="https://cdn.jsdelivr.net/gh/YoanBosko/YoanBosko@main/assets/LoT.gif">
+      <img src="./assets/KickRave.gif">
       <p><i>Arcade Rhythm Game with Roguelike elements.</i></p>
       <ul>
         <li><strong>Role:</strong> Lead Programmer (90% of codebase)</li>
