@@ -44,7 +44,7 @@ I am a passionate Game Programmer focused on creating immersive digital experien
   <tr>
     <td width="50%" valign="top">
       <h3>🔥 KickRave</h3>
-      <img src="assets/KickRave.gif">
+      <img src="https://i.imgur.com/ynMs4Zb.gif">
       <p><i>Arcade Rhythm Game with Roguelike elements.</i></p>
       <ul>
         <li><strong>Role:</strong> Lead Programmer (90% of codebase)</li>
