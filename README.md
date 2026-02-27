@@ -49,7 +49,7 @@ I am a passionate Game Programmer focused on creating immersive digital experien
         <li><strong>Core Tech:</strong> Unity, MIDI Integration</li>
         <li><strong>Highlight:</strong> Developed a custom system to sync rhythmic gameplay with MIDI file data within Unity.</li>
       </ul>
-      <a href="https://github.com/yourusername/kickrave">View Repository →</a>
+      <a href="https://github.com/YoanBosko/Dance-Prototype-v1">View Repository →</a>
       <p></p>
       <a href="https://moikatsu.itch.io/kickrave">
         <img src="https://img.shields.io/badge/Play_on_Itch.io-KickRave_Page-black?style=flat-square&logo=itch.io" alt="Unity Badge">
@@ -63,8 +63,6 @@ I am a passionate Game Programmer focused on creating immersive digital experien
         <li><strong>Role:</strong> Sound Designer & Game Designer</li>
         <li><strong>Highlight:</strong> Composed 4 original BGM tracks and dozens of SFX.</li>
       </ul>
-      <a href="https://itch.io/yourlink">View Repository →</a>
-      <p></p>
       <a href="https://trulyadeba.itch.io/kurir-33">
         <img src="https://img.shields.io/badge/Play_on_Itch.io-Kurir_33_Page-black?style=flat-square&logo=itch.io" alt="Unity Badge">
       </a>
@@ -79,7 +77,7 @@ I am a passionate Game Programmer focused on creating immersive digital experien
         <li><strong>Role:</strong> Game Designer & Secondary Programmer</li>
         <li><strong>Highlight:</strong> Translated abstract concepts into playable mechanics where UI elements act as physical world objects.</li>
       </ul>
-      <a href="https://github.com/yourusername/attack-click">View Repository →</a>
+      <a href="https://github.com/YoanBosko/GarenaGameJam3">View Repository →</a>
       <p></p>
       <a href="https://moikatsu.itch.io/attack-click">
         <img src="https://img.shields.io/badge/Play_on_Itch.io-Attack_=_Click_Page-black?style=flat-square&logo=itch.io" alt="Unity Badge">
@@ -93,8 +91,6 @@ I am a passionate Game Programmer focused on creating immersive digital experien
         <li><strong>Role:</strong> Systems & UI Programmer</li>
         <li><strong>Highlight:</strong> Architected robust data management systems to handle hundreds of unique game items and NPC interactions.</li>
       </ul>
-      <a href="https://github.com/yourusername/lion-on-tuesday">View Repository →</a>
-      <p></p>
     </td>
   </tr>
 </table>
