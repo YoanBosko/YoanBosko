@@ -95,26 +95,16 @@ I am a passionate Game Programmer focused on creating immersive digital experien
       </ul>
       <a href="https://github.com/yourusername/lion-on-tuesday">View Repository →</a>
       <p></p>
-      <a href="URL_TUJUAN">
-        <img src="https://img.shields.io/badge/Play_on_Itch.io-Lion_on_Tuesday_Page-black?style=flat-square&logo=itch.io" alt="Unity Badge">
-      </a>
     </td>
   </tr>
 </table>
 
 ---
 
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=username-kamu&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=username-kamu&layout=compact&theme=tokyonight)
-
----
-
-## 📫 Connect with me:
+<!-- ## 📫 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/username)
 [![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://username.itch.io)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:email@kamu.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:email@kamu.com) -->
 
 <!--
 **YoanBosko/YoanBosko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
