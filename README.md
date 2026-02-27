@@ -73,7 +73,7 @@ I am a passionate Game Programmer focused on creating immersive digital experien
   <tr>
     <td width="50%" valign="top">
       <h3>🖱️ Attack = Click</h3>
-      <img src="./assets/Attack=Click2.gif" alt="KickRave Demo" width="100%" style="border-radius: 8px;">
+      <img src="assets/Attack=Click2.gif">
       <p><i>Experimental Action-Puzzle (Garena Game Jam 3).</i></p>
       <ul>
         <li><strong>Role:</strong> Game Designer & Secondary Programmer</li>
