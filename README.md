@@ -17,22 +17,7 @@ I am a passionate Game Programmer focused on creating immersive digital experien
 
 ### ⚙️ Tools & Others
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
-
-<!-- ---
-
-## 🚀 Featured Projects
-
-### 🐟 Lion on Tuesday
-*A 2D side-scrolling fishing RPG.*
-- **Role:** Lead Programmer
-- **Tech:** Unity, C#
-- [View Repository](https://github.com/username/lion-on-tuesday)
-
-### 📦 Kurir 33 (GIMJAM 2026)
-*Fast-paced delivery game with a twist.*
-- **Role:** Sound Designer & Programmer
-- [Play on Itch.io](https://itch.io/link-kamu) -->
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=&logoColor=white)
 
 ---
 
@@ -100,9 +85,8 @@ I am a passionate Game Programmer focused on creating immersive digital experien
 <!-- ## 📫 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/username)
 [![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://username.itch.io)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:email@kamu.com) -->
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:email@kamu.com) 
 
-<!--
 **YoanBosko/YoanBosko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
