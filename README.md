@@ -30,7 +30,7 @@ I am a passionate Game Programmer focused on creating immersive digital experien
       <img src="./assets/KickRave.gif">
       <p><i>Arcade Rhythm Game with Roguelike elements.</i></p>
       <ul>
-        <li><strong>Role:</strong> Lead Programmer (90% of codebase)</li>
+        <li><strong>Role:</strong> Lead Programmer</li>
         <li><strong>Core Tech:</strong> Unity, MIDI Integration</li>
         <li><strong>Highlight:</strong> Developed a custom system to sync rhythmic gameplay with MIDI file data within Unity.</li>
       </ul>
