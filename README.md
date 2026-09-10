@@ -32,7 +32,7 @@ I am a passionate Game Programmer focused on creating immersive digital experien
       <ul>
         <li><strong>Role:</strong> Lead Programmer</li>
         <li><strong>Core Tech:</strong> Unity, MIDI Integration</li>
-        <li><strong>Highlight:</strong> Developed a custom system to sync rhythmic gameplay with MIDI file data within Unity.</li>
+        <li><strong>Highlight:</strong> Developed a custom system to sync rhythmic gameplay with MIDI file data within Unity. Combining rhythm genre with roguelike</li>
       </ul>
       <a href="https://github.com/YoanBosko/Dance-Prototype-v1">View Repository →</a>
       <p></p>
